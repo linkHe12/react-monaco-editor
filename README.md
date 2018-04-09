@@ -4,6 +4,7 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
+[![Build Status](https://travis-ci.org/superRaytin/react-monaco-editor.svg?branch=master)](https://travis-ci.org/superRaytin/react-monaco-editor)
 
 [![react-monaco-editor](https://nodei.co/npm/react-monaco-editor.png)](https://npmjs.org/package/react-monaco-editor)
 
@@ -15,7 +16,7 @@
 
 To build the examples locally, run:
 
-```
+```bash
 npm install
 cd examples/browser && npm install  # or examples/electron, or examples/nextjs
 npm start   # or for the next.js example, run `npm run dev`
@@ -25,7 +26,7 @@ Then open `http://localhost:8886` in a browser.
 
 ## Installation
 
-```
+```bash
 npm install react-monaco-editor
 ```
 
